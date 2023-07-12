@@ -44,3 +44,6 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
 
 - Pelicula:
 - Comida:
+  10 - juan pedro zeballos
+- pelicula: gol
+  -comida: asado
