@@ -28,7 +28,7 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
 6- H4rdan
   - Pelicula: El Señor de Los Anillos
   - Comida: Milanesa
-  - Juego:
+  - Juego: The Witcher 3
 
 7- JuanPedroNodar
   - Pelicula:
