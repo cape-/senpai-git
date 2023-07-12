@@ -47,3 +47,4 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   10 - juan pedro zeballos
 - pelicula: gol
   -comida: asado
+  -juego: catan
