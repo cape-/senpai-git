@@ -42,5 +42,5 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
 
 9- nacholopez18
 
-- Pelicula:
-- Comida:
+- Pelicula: ignacio lópez
+- Comida: Asado
