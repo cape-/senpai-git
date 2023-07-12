@@ -21,8 +21,8 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   - Comida:
 
 6- H4rdan
-  - Pelicula:
-  - Comida:
+  - Pelicula: El Señor de Los Anillos
+  - Comida: Milanesa
 
 7- JuanPedroNodar
   - Pelicula:
