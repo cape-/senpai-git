@@ -9,8 +9,8 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   - Comida:
 
 3- chimichuflis
-  - Pelicula:
-  - Comida:
+  - Pelicula: El gato con botas 2
+  - Comida: Chivito canadiense uwu
 
 4- GeralAlvarez
   - Pelicula:
