@@ -1,8 +1,8 @@
 En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
 
 1- gnzf
-  - Pelicula:
-  - Comida:
+  - Pelicula: Biker boyz
+  - Comida: Matambrito a la pizza
 
 2- lpch20
   - Pelicula:
