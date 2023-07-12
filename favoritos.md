@@ -4,9 +4,9 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   - Pelicula:
   - Comida:
 
-2- lpch20 : Luciano Piñeyro
-  - Pelicula: Harry Potter
-  - Comida: Hamburguesa
+2- lpch20
+  - Pelicula:
+  - Comida:
 
 3- chimichuflis
   - Pelicula:
