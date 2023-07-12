@@ -35,7 +35,7 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
 - Pelicula:
 - Comida:
 
-8- tomasmiranda13 - Tomás Miranda
+8- tomasmiranda13 - Tomass Miranda
 
 - Pelicula: Volver al futuro
 - Comida: Milanga
