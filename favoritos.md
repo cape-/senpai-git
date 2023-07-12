@@ -12,9 +12,9 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   - Pelicula:
   - Comida:
 
-4- GeralAlvarez
-  - Pelicula:
-  - Comida:
+4- GeralAlvarez - Geraldine Alvarez
+  - Pelicula: Diario de una pasion
+  - Comida: Milanesa con pure
 
 5- EvelinRodriguezSmeding
   - Pelicula:
