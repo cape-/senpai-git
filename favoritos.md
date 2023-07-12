@@ -6,9 +6,9 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   - Juego:
 
 2- lpch20
-  - Pelicula:
-  - Comida:
-  - Juego:
+  - Pelicula: Harry Potter
+  - Comida: Haburguesa
+  - Juego: Cod 
 
 3- chimichuflis
   - Pelicula:
