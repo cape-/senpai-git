@@ -1,8 +1,8 @@
 En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
 
-1- gnzf
-  - Pelicula:
-  - Comida:
+1- gnzf Gonzalo Fernandez
+  - Pelicula: Biker boyz.
+  - Comida: Matambrito a la pizza.
   - Juego:
 
 2- lpch20
