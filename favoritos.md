@@ -11,9 +11,9 @@ En este archivo vamos a anotar nuestros gustos favoritos de comida y película.
   - Juego:
 
 3- chimichuflis
-  - Pelicula:
-  - Comida:
-  - Juego:
+  - Pelicula: El gato con botas 2
+  - Comida: Chivito canadiense uwu
+  - Juego: Zelda
 
 4- GeralAlvarez
   - Pelicula:
